@@ -34,9 +34,12 @@ This movie recommender system is built using a content-based approach, which sug
 
 ## Website using StreamLit
 
-![image](https://github.com/sejalapeno/movie-recommender-system/assets/110482301/542409f4-5bbc-45f2-8ca1-2f798456fa7d)
+![image](https://github.com/sejalapeno/movie-recommender-system/assets/110482301/ab807430-4a7e-4628-af94-3bd091b92774)
 
-![image](https://github.com/sejalapeno/movie-recommender-system/assets/110482301/a170362a-2182-4b7a-b6dc-22d22b2c3242)
+![image](https://github.com/sejalapeno/movie-recommender-system/assets/110482301/4b063bb2-58ae-41ed-9ac1-6d5f9080ddd5)
 
-![image](https://github.com/sejalapeno/movie-recommender-system/assets/110482301/cb0b83da-f359-47a7-ba48-ab43e3f90dd9)
+![image](https://github.com/sejalapeno/movie-recommender-system/assets/110482301/e6db94f1-a290-4506-acd9-c12fff358115)
+
+
+
 
